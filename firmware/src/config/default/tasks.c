@@ -89,7 +89,7 @@ void _APP_CLOUD_Tasks(  void *pvParameters  )
 void SYS_Tasks ( void )
 {
     
-    vTraceEnable(TRC_START);
+    vTraceEnable(TRC_INIT);
     
     /* Maintain system services */
     
