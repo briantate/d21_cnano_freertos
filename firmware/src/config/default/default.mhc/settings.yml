@@ -1,0 +1,14 @@
+configName: default
+folderName: d21G17_globalSensor
+format_version: v1.0
+frameworkPath: ..\..\..\Users\c41175\Harmony3
+processor: ATSAMD21G17D
+projectName: d21G17_globalSensor
+settings:
+  PackageFilter: bsp;core;crypto;cryptoauthlib;csp;net;quick_docs;usb;usb_apps_device;wireless_apps_winc1500;wireless_system_pic32mzw1_wfi32e01;wireless_wifi
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.7.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\SAMD21_DFP\3.4.116\samd21d\atdf\ATSAMD21G17D.atdf
